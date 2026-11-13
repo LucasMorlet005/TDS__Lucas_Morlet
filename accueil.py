@@ -5,6 +5,8 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from PIL import Image, ImageTk
 
 
+from math import pi
+
 
 
 class Accueil(ctk.CTkFrame):
